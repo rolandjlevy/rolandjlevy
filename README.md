@@ -8,6 +8,6 @@ ___
 + 🚀  Working on these [side projects](https://rolandlevy.co.uk/#projects)
 + ⭐️  Featured project: [Psychedelic Avocados](https://github.com/rolandjlevy/css-hypnotic-wave-of-psychedelic-avocados) made with CSS
 + 🌱  Learning `Node`, `Express`, `Pug`, `Vue`, `React`, `Next`
-+ 💡  $$ Looking to collaborate on `GraphQL`, `TypeScript`, `MongoDB` $$
-+ 📫  > Reach me via: [Facebook](https://www.facebook.com/rolandjlevy)
-+ 💬  > Ask me about `JavaScript` and `meditation`
++ 💡  Looking to collaborate on `GraphQL`, `TypeScript`, `MongoDB`
++ 📫  Reach me via: [Facebook](https://www.facebook.com/rolandjlevy)
++ 💬  Ask me about `JavaScript` and `meditation`

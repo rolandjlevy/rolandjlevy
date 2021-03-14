@@ -9,5 +9,5 @@ ___
 + ⭐️  &nbsp; Featured project: [Psychedelic Avocados](https://github.com/rolandjlevy/css-hypnotic-wave-of-psychedelic-avocados) made with CSS
 + 🌱  &nbsp; Learning `Node`, `Express`, `Pug`, `Vue`, `React`, `Next`
 + 💡  &nbsp; Looking to collaborate on `GraphQL`, `TypeScript`, `MongoDB`
-+ 📫  &nbsp; Reach me via: [Facebook](https://www.facebook.com/rolandjlevy)
++ 📫  &nbsp; Reach me via: [facebook](https://www.facebook.com/rolandjlevy) or [twitter](https://twitter.com/rolandjlevy)
 + 💬  &nbsp; Ask me about `JavaScript` and `meditation`

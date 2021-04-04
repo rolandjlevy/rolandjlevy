@@ -6,7 +6,7 @@ I love bringing new ideas to life and thrive on building user-centric interfaces
 ___
 
 + 🚀  &nbsp; Working on these [side projects](https://rolandlevy.co.uk/#projects)
-+ ⭐️  &nbsp; Featured CSS projects: [Psychedelic Avocados](https://github.com/rolandjlevy/css-hypnotic-wave-of-psychedelic-avocados) and [Analogue Clock](https://github.com/rolandjlevy/css-analogue-clock/)
++ ⭐️  &nbsp; Featured CSS projects: [Psychedelic Avocados](https://github.com/rolandjlevy/css-hypnotic-wave-of-psychedelic-avocados) and [Wave-pool Simulator](https://github.com/rolandjlevy/css-conic-gradient-wave-pattern)
 + 💡  &nbsp; Looking to collaborate on `Node`, `Express`, `Pug`, `Vue`, `React`, `Next`
 + 🎯  &nbsp; Aiming to learn  `GraphQL`, `TypeScript`, `MongoDB`
 + 📫  &nbsp; Reach me via: [facebook](https://www.facebook.com/rolandjlevy) or [twitter](https://twitter.com/rolandjlevy)

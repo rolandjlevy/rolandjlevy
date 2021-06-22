@@ -1,6 +1,6 @@
 # Hey! 👋
 
-> I'm Roland, a full-stack developer, specialising in front-end. Check out my [WEBSITE](https://rolandlevy.co.uk/)
+> I'm Roland, a full-stack JavaScript developer, specialising in front-end. Check out my [WEBSITE](https://rolandlevy.co.uk/)
 
 I love bringing new ideas to life and thrive on building user-centric interfaces which aim to solve problems and improve the quality of people’s lives. Find out more [ABOUT ME](https://rolandlevy.co.uk/#about)
 ___

@@ -11,3 +11,5 @@ ___
 + 🎯  &nbsp; Learning  `Next`, `Material-UI`,  `MongoDB`, `WebSockets`, `TypeScript`
 + 📫  &nbsp; Reach me via: [facebook](https://www.facebook.com/rolandjlevy) or [twitter](https://twitter.com/rolandjlevy)
 + 💬  &nbsp; Ask me about `JavaScript` and `meditation`
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rolandjlevy&show_icons=true&locale=en" alt="rolandjlevy" /></p>

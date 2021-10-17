@@ -4,7 +4,7 @@
 
 
 > I'm Roland, a full-stack JavaScript developer. I love bringing new ideas to life by building user-centric interfaces. Check out my [WEBSITE](https://rolandlevy.co.uk/) 
-___
+<hr />
 
 + 🚀  &nbsp; Working on these [side projects](https://rolandlevy.co.uk/#projects)
 + ⭐️  &nbsp; Featured projects: [BackChat messaging app](https://github.com/rolandjlevy/chat-app-with-socket-io), [Wave-pool Simulator](https://github.com/rolandjlevy/css-conic-gradient-wave-pattern), [Snow Quotes](https://github.com/rolandjlevy/snow-quotes) and [CSS clock](https://github.com/rolandjlevy/css-analogue-clock/)

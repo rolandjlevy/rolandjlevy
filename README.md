@@ -4,6 +4,7 @@
 
 
 > I'm Roland, a full-stack JavaScript developer. I love bringing new ideas to life by building user-centric interfaces. Check out my [WEBSITE](https://rolandlevy.co.uk/) 
+
 <hr />
 
 + 🚀  &nbsp; Working on these [side projects](https://rolandlevy.co.uk/#projects)

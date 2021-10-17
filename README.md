@@ -9,8 +9,8 @@
 
 + 🚀  &nbsp; Working on these [side projects](https://rolandlevy.co.uk/#projects)
 + ⭐️  &nbsp; Featured projects: [BackChat messaging app](https://github.com/rolandjlevy/chat-app-with-socket-io), [Wave-pool Simulator](https://github.com/rolandjlevy/css-conic-gradient-wave-pattern), [Snow Quotes](https://github.com/rolandjlevy/snow-quotes) and [CSS clock](https://github.com/rolandjlevy/css-analogue-clock/)
-+ ❤️  &nbsp; Love `Node`, `Express`, `React`, `Vue`
-+ 🎯  &nbsp; Exploring  `Next`, `Material-UI`,  `MongoDB`, `WebSockets`, `TypeScript`
++ ❤️  &nbsp; Love `React`, `Node`, `Express`, `JavaScript`, `CSS`
++ 🎯  &nbsp; Exploring  `Next`, `MongoDB`, `WebSockets`, `TypeScript`
 + 📫  &nbsp; Reach me via: [linkedin](https://www.linkedin.com/in/roland-levy/), [twitter](https://twitter.com/rolandjlevy) or  [facebook](https://www.facebook.com/rolandjlevy)
 + 💬  &nbsp; Ask me about `JavaScript` and `meditation`
 

@@ -1,5 +1,8 @@
 # Hey! 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/rolandjlevy?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
+
 > I'm Roland, a full-stack JavaScript developer. I love bringing new ideas to life by building user-centric interfaces. Check out my [WEBSITE](https://rolandlevy.co.uk/) 
 ___
 

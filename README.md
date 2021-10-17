@@ -22,6 +22,6 @@ ___
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Roland Levy's Github Stats" src="https://github-readme-stats.blesstheboy.vercel.app/api?username=BlessTheBoy&show_icons=true&hide_border=true&locale=en&hide=stars,contribs" />
+  <img align="left" alt="Roland Levy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rolandjlevy&show_icons=true&hide_border=true&locale=en&hide=stars,contribs" />
 
 </details>

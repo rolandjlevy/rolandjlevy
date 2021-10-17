@@ -11,14 +11,14 @@
 + ⭐️  &nbsp; Featured projects: [BackChat messaging app](https://github.com/rolandjlevy/chat-app-with-socket-io), [Wave-pool Simulator](https://github.com/rolandjlevy/css-conic-gradient-wave-pattern), [Snow Quotes](https://github.com/rolandjlevy/snow-quotes) and [CSS clock](https://github.com/rolandjlevy/css-analogue-clock/)
 + ❤️  &nbsp; Love `Node`, `Express`, `React`, `Vue`
 + 🎯  &nbsp; Exploring  `Next`, `Material-UI`,  `MongoDB`, `WebSockets`, `TypeScript`
-+ 📫  &nbsp; Reach me via: [facebook](https://www.facebook.com/rolandjlevy) or [twitter](https://twitter.com/rolandjlevy)
++ 📫  &nbsp; Reach me via: [linkedin](https://www.linkedin.com/in/roland-levy/), [twitter](https://twitter.com/rolandjlevy) or  [facebook](https://www.facebook.com/rolandjlevy)
 + 💬  &nbsp; Ask me about `JavaScript` and `meditation`
 
 ---
 
 ### 🔗 Connect with me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/roland-levy/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]()
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rolandjlevy)
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/rolandjlevy)
 

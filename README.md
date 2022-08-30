@@ -28,9 +28,10 @@
   <img align="left" alt="Roland Levy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rolandjlevy&show_icons=true&hide_border=true&locale=en&hide=stars,contribs" />
 </details>
 
+---
 
 <details>
-  <summary>Connect with me</summary>
+  <summary>👋 Connect with me</summary>
   <p align="center">
     <a href="https://www.linkedin.com/in/roland-levy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> </p>
 </details>

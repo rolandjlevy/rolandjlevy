@@ -5,7 +5,7 @@
 ---
 
 + 🚀  &nbsp; Working on these [side projects](https://rolandlevy.co.uk/#projects)
-+ ⭐️  &nbsp; Featured projects: [Blogging App](https://github.com/rolandjlevy/express-login-api-with-jwt), [Cocktail Finder](https://replit.com/@RolandJLevy/js-cocktailsdb-api), [Sliders Game](https://github.com/rolandjlevy/js-sliders-game), [Emoji Finder](https://github.com/rolandjlevy/react-emoji-finder)
++ ⭐️  &nbsp; Featured projects: [Blogging App](https://github.com/rolandjlevy/express-login-api-with-jwt), [Cocktail Finder](https://github.com/rolandjlevy/js-cocktailsdb-api), [Sliders Game](https://github.com/rolandjlevy/js-sliders-game), [Emoji Finder](https://github.com/rolandjlevy/react-emoji-finder)
 + ❤️  &nbsp; Love `React`, `Node`, `Express`, `JavaScript`, `CSS`
 + 🎯  &nbsp; Exploring  `Next`, `MongoDB`, `WebSockets`, `TypeScript`
 + 📫  &nbsp; Reach me via: [linkedin](https://www.linkedin.com/in/roland-levy/), [twitter](https://twitter.com/rolandjlevy) or  [facebook](https://www.facebook.com/rolandjlevy)

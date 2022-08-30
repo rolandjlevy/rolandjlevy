@@ -1,8 +1,5 @@
 ## Hey! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rolandjlevy?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/rolandjlevy)
-
-
 > I'm Roland, a full-stack JavaScript developer. I love bringing new ideas to life by building user-centric interfaces. Check out my [WEBSITE](https://rolandlevy.co.uk/) 
 
 ---
@@ -32,6 +29,5 @@
 
 <details>
   <summary>👋 Connect with me</summary>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/roland-levy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> </p>
+    <a href="https://www.linkedin.com/in/roland-levy/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a>
 </details>

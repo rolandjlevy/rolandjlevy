@@ -1,10 +1,10 @@
 ## Hey! 👋
 
-> I'm Roland, a full-stack JavaScript developer. I love bringing new ideas to life by building user-centric interfaces. Check out my [WEBSITE](https://portfolio-next-mongoose-starter.vercel.app) 
+> I'm Roland, a full-stack JavaScript developer. I love bringing new ideas to life by building user-centric interfaces. Check out my [WEBSITE](https://rolandlevy.co.uk)
 
 ---
 
-+ 🚀  &nbsp; Working on these [side projects](https://rolandlevy.co.uk/#projects)
++ 🚀  &nbsp; Working on these [personal projects](https://rolandlevy.co.uk)
 + ⭐️  &nbsp; Featured projects: [Blogging App](https://github.com/rolandjlevy/express-login-api-with-jwt), [Cocktail Finder](https://github.com/rolandjlevy/js-cocktailsdb-api), [Sliders Game](https://github.com/rolandjlevy/js-sliders-game), [Emoji Finder](https://github.com/rolandjlevy/react-emoji-finder)
 + ❤️  &nbsp; Love `JavaScript`, `React`, `Next`, `Node`, `Express`, `MongoDB`
 + 🎯  &nbsp; Experimenting with `Serverless`, `Elasticsearch`

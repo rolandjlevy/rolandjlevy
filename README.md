@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-> I'm Roland, a full-stack JavaScript developer. I love bringing new ideas to life by building user-centric interfaces. Check out my [WEBSITE](https://rolandlevy.co.uk)
+> Hi, I'm Roland — a Full‑Stack Software Engineer with over seven years' experience building scalable, user‑focused applications across React, Next.js, Node.js, serverless patterns, and AWS microservices. Check out my [WEBSITE](https://rolandlevy.co.uk)
 
 ---
 

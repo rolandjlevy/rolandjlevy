@@ -19,6 +19,9 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app)](https://github.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rolandjlevy)](https://git.io/streak-stats)
+
+
 
 ---
 

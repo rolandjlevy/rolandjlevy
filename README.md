@@ -13,15 +13,9 @@
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
-  <img alt="Roland Levy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rolandjlevy&show_icons=true&hide_border=true&locale=en&hide=stars,contribs" />
+  <summary>:zap: Github Streak</summary>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=rolandjlevy)](https://git.io/streak-stats)
 </details>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app)](https://github.com)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rolandjlevy)](https://git.io/streak-stats)
-
-
 
 ---
 

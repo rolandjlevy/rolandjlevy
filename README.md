@@ -12,10 +12,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Streak</summary>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=rolandjlevy)](https://git.io/streak-stats)
-</details>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rolandjlevy)](https://git.io/streak-stats)
+
 
 ---
 

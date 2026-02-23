@@ -17,6 +17,8 @@
   <img alt="Roland Levy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rolandjlevy&show_icons=true&hide_border=true&locale=en&hide=stars,contribs" />
 </details>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
+
 ---
 
 <details>
